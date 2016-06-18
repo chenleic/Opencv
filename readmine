@@ -1,2 +1,7 @@
 opencv project is source code cloned from github
-the dir test is for studying test 
+the dir test is for studying test
+
+#CMakeLists.txt
+     this file which is a example for building a project,
+     1.cmake .
+     2.make 

@@ -1,0 +1,3 @@
+/home/chenlei/chenl/opencv/Opencv/opencv-2.4.13/samples/c/example_cmake/CMakeFiles/edit_cache.dir
+/home/chenlei/chenl/opencv/Opencv/opencv-2.4.13/samples/c/example_cmake/CMakeFiles/rebuild_cache.dir
+/home/chenlei/chenl/opencv/Opencv/opencv-2.4.13/samples/c/example_cmake/CMakeFiles/opencv_example.dir
